@@ -1,0 +1,22 @@
+server:
+  port: 8213
+spring:
+  application:
+    name: cloud-gateway
+  cloud:
+    nacos:
+      discovery:
+        ## 服务注册地址
+        server-addr: 127.0.0.1:8848
+    gateway:
+      routes:
+        - id: cloud-payment-service
+          uri: lb://cloud-user-handle
+          predicates:
+            - Path=/handle/**
+management:
+  # 端点检查（健康检查）
+  endpoints:
+    web:
+      exposure:
+        include: "*"
