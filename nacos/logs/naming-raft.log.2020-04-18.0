@@ -1,0 +1,60 @@
+2020-04-18 15:11:09,140 INFO initializing Raft sub-system
+
+2020-04-18 15:11:09,141 INFO raft notifier started
+
+2020-04-18 15:11:09,141 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-04-18 15:11:09,153 INFO cache loaded, datum count: 0, current term: 0
+
+2020-04-18 15:11:09,153 INFO finish to load data from disk, cost: 12 ms.
+
+2020-04-18 15:11:09,045 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.1.5","key":"192.168.1.5:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-04-18 15:11:09,156 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-04-18 15:11:09,158 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.5","key":"192.168.1.5:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-04-18 15:11:09,234 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-04-18 15:11:11,626 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-04-18 15:11:19,040 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.1.5","key":"192.168.1.5:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-04-18 15:11:19,041 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.1.5","key":"192.168.1.5:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-04-18 15:11:19,041 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.5","key":"192.168.1.5:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-04-18 15:11:21,077 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.5","key":"192.168.1.5:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-04-18 15:12:13,194 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@cloud-sentinel-outfter
+
+2020-04-18 19:52:40,259 INFO initializing Raft sub-system
+
+2020-04-18 19:52:40,260 INFO raft notifier started
+
+2020-04-18 19:52:40,260 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2020-04-18 19:52:40,271 INFO cache loaded, datum count: 0, current term: 0
+
+2020-04-18 19:52:40,271 INFO finish to load data from disk, cost: 12 ms.
+
+2020-04-18 19:52:40,066 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.1.5","key":"192.168.1.5:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-04-18 19:52:40,275 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-04-18 19:52:40,278 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.5","key":"192.168.1.5:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-04-18 19:52:40,345 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-04-18 19:52:42,447 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-04-18 19:52:50,060 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.1.5","key":"192.168.1.5:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-04-18 19:52:50,060 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.1.5","key":"192.168.1.5:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-04-18 19:52:50,060 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.5","key":"192.168.1.5:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-04-18 19:52:52,228 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.5","key":"192.168.1.5:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-04-18 19:53:48,034 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@cloud-sentinel-outfter
+

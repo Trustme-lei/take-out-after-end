@@ -1,0 +1,18 @@
+2020-04-18 15:12:13,276 INFO DEFAULT_GROUP@@cloud-sentinel-outfter {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8521:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-18 15:12:13,286 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-sentinel-outfter, ips: 192.168.1.5:8521_true,
+
+2020-04-18 19:53:48,170 INFO DEFAULT_GROUP@@cloud-sentinel-outfter {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8521:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-18 19:53:48,183 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-sentinel-outfter, ips: 192.168.1.5:8521_true,
+
+2020-04-18 19:53:48,184 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-sentinel-outfter, ips: 192.168.1.5:8521_true,
+
+2020-04-18 19:54:41,620 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-sentinel-outfter, ips: 192.168.1.5:8521_true,
+
+2020-04-18 20:22:24,483 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-sentinel-outfter, ips: 192.168.1.5:8521_true,
+
+2020-04-18 20:39:33,346 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-sentinel-outfter, ips: 192.168.1.5:8521_true,
+
+2020-04-18 20:40:34,010 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-sentinel-outfter, ips: 192.168.1.5:8521_true,
+

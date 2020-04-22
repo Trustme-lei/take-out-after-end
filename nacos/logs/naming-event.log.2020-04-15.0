@@ -1,0 +1,18 @@
+2020-04-15 23:50:11,455 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8213:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-15 23:50:11,460 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.5:8213_true,
+
+2020-04-15 23:50:11,463 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.5:8213_true,
+
+2020-04-15 23:50:22,201 INFO DEFAULT_GROUP@@cloud-user-handle {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8721:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-15 23:50:22,201 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-user-handle, ips: 192.168.1.5:8721_true,
+
+2020-04-15 23:50:22,202 INFO DEFAULT_GROUP@@cloud-user-handle {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.5:8721:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-15 23:50:22,202 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-user-handle, ips: 192.168.1.5:8721_true,
+
+2020-04-15 23:50:22,202 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-user-handle, ips: 192.168.1.5:8721_true,
+
+2020-04-15 23:50:22,203 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-user-handle, ips: 192.168.1.5:8721_true,
+
