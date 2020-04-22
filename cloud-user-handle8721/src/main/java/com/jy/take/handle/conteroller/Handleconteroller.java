@@ -1,6 +1,8 @@
 package com.jy.take.handle.conteroller;
 
 
+
+import com.js.ls.api.annotation.NoNull;
 import com.js.ls.api.entity.CommonResult;
 import com.jy.take.handle.server.Datahanserver;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -24,11 +26,11 @@ public class Handleconteroller {
   private Datahanserver dahser;
 
   @PostMapping("/login")
-  public CommonResult login(String phonemail, String password){
+  public CommonResult login(@NoNull String phonemail, String password){
     return dahser.login(phonemail,password);
   }
   @GetMapping("/testA")
-  public String testA() {
+  public String testA( @NoNull String ss,String zz, @NoNull String s) {
     return "------testA";
   }
 }
