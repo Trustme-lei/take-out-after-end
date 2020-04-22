@@ -1,4 +1,4 @@
-package com.jy.take.handle.annotation;
+package com.js.ls.api.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
